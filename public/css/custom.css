@@ -1,0 +1,31 @@
+.users-list .react-bs-table-search-form{
+width: 25%;
+/* float: right; */
+}
+.users-list .react-bs-table-search-form input{
+height:35px !important;
+border-radius:20px;
+}
+
+.users-list .react-bs-table-tool-bar {
+    margin: 32px;
+}
+
+.users-list .green-button{
+    border-radius: 20px;
+}
+
+.users-list .search-wrapper .my-custom-class i {
+    font-size: 34px;
+    color: red;
+    background: #fff;
+    padding-left: 15px;
+    border-radius: 5px;
+    -o-transition: all .5s ease 0s;
+    transition: all .5s ease 0s;
+    cursor: pointer;
+}
+
+.modal-90w:first-child {
+    width: 90%;
+}
